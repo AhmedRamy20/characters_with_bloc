@@ -1,16 +1,7 @@
-# understand_api
+# Rick Characters With Bloc
 
-A new Flutter project.
+A Simple flutter project practising on the way of using bloc/cubit..
 
-## Getting Started
+##  📸  App Preview
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/AhmedRamy20/characters_with_bloc/assets/103888249/e5a8576e-71b9-4441-b907-46e07e6fc35b" width=900 height=1400>
